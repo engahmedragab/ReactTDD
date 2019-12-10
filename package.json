@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "TDDing a React app",
   "main": "index.js",
-  "repository": "",
+  "repository": "https://github.com/engahmedragab/ReactTDD.git",
   "author": "Ahmed Ragab <elec.eng.ahmedragab@gmail.com>",
   "license": "MIT",
   "scripts": {
